@@ -39,8 +39,9 @@ html, body {
 
 .main .topic {
 	margin-left: 40px;
-	color: orange;
+	color: black;
 	text-decoration: none;
+	font-family: cursive;
 }
 
 .imgWrap {
