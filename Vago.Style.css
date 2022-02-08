@@ -183,16 +183,3 @@ html, body {
   display: inline;
   font-family: cursive;
 }
-
-
-.main .column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-.main .row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
