@@ -183,3 +183,7 @@ html, body {
   display: inline;
   font-family: cursive;
 }
+
+th {
+  text-align: left;
+}
