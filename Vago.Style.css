@@ -106,11 +106,11 @@ html, body {
 
 .main .four {
   color: black;
-	margin-left: 20px;
-	margin-right: 20px;
-	margin-top: -10px;
-	font-family: cursive;
-	font-size: 15px;
+  margin-left: 20px;
+  margin-right: 20px;	
+  margin-top: -10px;
+  font-family: cursive;
+  font-size: 15px;
 }
 
 .main .five {
@@ -119,6 +119,15 @@ html, body {
   margin-left: 900px;
   margin-top: -10px;
   margin-right: 50px;
+  font-size: 15px;
+}
+
+.main .six {
+  color: black;
+  margin-left: 70px;
+  margin-right: 50px;	
+  margin-top: -10px;
+  font-family: cursive;
   font-size: 15px;
 }
 
