@@ -197,3 +197,7 @@ html, body {
   text-align: left;
   padding: 1px;
 }
+
+.main table {
+	border:0px solid transparent;
+}
